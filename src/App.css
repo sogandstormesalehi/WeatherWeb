@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+
+}
+
+.input {
+    padding: 15px;
+    width: 80%;
+    margin: auto;
+    border: 1px solid lightblue;
+    border-radius: 8px;
+    font-size: 20px;
+    font-family: 'Brush Script MT';
+}
+
+.input:focus {
+    outline: none;
+}
+
+.weather-data {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 50px;
+    font-family: 'Brush Script MT';
+    color: skyblue;
+}
+
+body {
+    background-image: url("https://i.pinimg.com/564x/f8/58/a2/f858a2adf88293155231841f2f692496.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+
+.notFound {
+    color: skyblue;
+}   
