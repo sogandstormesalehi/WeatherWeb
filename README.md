@@ -5,7 +5,7 @@
 ## Features
 
 - **Real-Time Weather Data**: Get up-to-date weather information for any city.
-- **Default Cities**: Quickly access weather data for popular cities like New York, Los Angeles, Chicago, and Miami.
+- **Default Cities**: Quickly access weather data for popular cities.
 - **Search History**: Keeps track of the last 5 searched cities for quick access.
 
 ## Installation
